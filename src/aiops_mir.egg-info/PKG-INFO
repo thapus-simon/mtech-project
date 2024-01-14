@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: aiops-mir
+Version: 0.0.0
+Summary: A small python package for Deep learning app
+Home-page: https://github.com/thapussimon/mtech-project
+Author: thapussimon
+Author-email: thapus.simon@outlook.com
+Project-URL: Bug Tracker, https://github.com/thapussimon/mtech-project/issues
+
+# mtech-project
+
+# How to run
+
+Clone the repo
+https://github.com/thapus-simon/mtech-project
+
+install requirements.txt
